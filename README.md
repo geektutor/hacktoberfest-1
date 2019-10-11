@@ -6,4 +6,4 @@ Our repository for Hacktoberfest 2019
 Fork the repository<br>
 Clone the repository to your PC<br>
 Make changes<br>
-Make a PR
+Make a Pull Request
