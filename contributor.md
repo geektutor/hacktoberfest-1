@@ -1,3 +1,3 @@
 # Contributors
 
-[Geektutor](github.com/geektutor)
+1. [Geektutor](github.com/geektutor)
